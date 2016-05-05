@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string-array name="payments">
+        <item>Paypal Manual</item>
+        <item>Credit card Manual</item>
+        <item>Money Manual</item>
+    </string-array>
+</resources>
