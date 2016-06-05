@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rest App</string>
+    <string name="label_search">Search for Code or description</string>
+    <string name="label_search_btn">Search</string>
+</resources>
