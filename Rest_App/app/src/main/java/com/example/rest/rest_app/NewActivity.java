@@ -1,5 +1,6 @@
 package com.example.rest.rest_app;
 
+<<<<<<< HEAD
 import android.app.ProgressDialog;
 import android.net.Uri;
 import android.os.AsyncTask;
@@ -24,10 +25,18 @@ public class NewActivity extends AppCompatActivity {
     private EditText price;
     private EditText amount;
 
+=======
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class NewActivity extends AppCompatActivity {
+
+>>>>>>> 0a23cf22b8a610c24384ab0dbe95bf0593d59506
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_new);
+<<<<<<< HEAD
 
         code = (EditText) findViewById(R.id.code);
         description = (EditText) findViewById(R.id.description);
@@ -110,5 +119,7 @@ public class NewActivity extends AppCompatActivity {
 
             finish();
         }
+=======
+>>>>>>> 0a23cf22b8a610c24384ab0dbe95bf0593d59506
     }
 }
