@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CEP_Webservice</string>
+    <string name="app_name">CEP Webservice</string>
+    <string name="cep_webservice">http://viacep.com.br/ws/%s/json</string>
+    <string name="btn_search">Search</string>
 </resources>
