@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/76585cbe10e4107057a558f9a4c5cc9fe27b7ce1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_c5138a96921f9e656253084700d04b46be2b75ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_fcb2a863bb523d8d939cb84ae6b9b8973eec3871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/cd764ad92b46e6716862e2817d9d51f5b0ba41a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_daba74b0624c1e62fb200205c1a0f6a0c16a8c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/6109d9a791acb5c4449999e5ab325f660fcbc6e8/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_509534444fe10b5f4e6597bd8938a7b94cc569ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/caa4c92c8124904a00d9012e0481dd601b7f3ffb/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0f8b6d47d202ce67b1b113bd23e24a2a7290b672.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/b93aba3f6079f952f06b2dd3a86b4eeaf4864e08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_b5b2763f6087e951191a31a5ada92d6ec8d6cce8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2549c66b068ab1d798674287f807d5a8d67d8d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/caa4c92c8124904a00d9012e0481dd601b7f3ffb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_405939352b873e700d86cbfa53f5494394b4fb66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/8843867c8a3cbc270caf81e1cf24cf1d3583416d/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_71452222fa5dac1403b51e44f127835e1ba05ce2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/6d1dcfd42bcb5aabad84ef59c5d32265bab3fad2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_22c7ca5e6af67e9652249e1923f2ff94bf6aabdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/a5b487d002b939ed7fbe616c9a561bd116a7b102/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_c4ddb5d9e5e19985f74c31f2aaf6602413301ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/4ebd281635eaab844eb3823314de072c8843c16d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_a66600a329199e7431bf3ab95d2abcb465fb1b3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/3525e10e848a173590212d5abb27edd6600401d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_a3f801a38bca5af7e70f23fdae5a352be01fa5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/01c7b3db8b8cb1f8b7530920814bfe9f4879711b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_6c337cec5360ffbe8e65c4af5de9cf558cbe653f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59fe13e86fc265bbbe3183ffcaddba95573318b3">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a449d1ebe8205010b63b914aa4dbc829b5ed438a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/76585cbe10e4107057a558f9a4c5cc9fe27b7ce1/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3053f08c93ff8d19d850b1eef2ceaa34b07a8d93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/6109d9a791acb5c4449999e5ab325f660fcbc6e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_2569e4cd43095efc9bd73a39381e874d2f5726c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/9ba4d6a7063630c08b0fbf43aa722d6df1fd61a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_90bc428c377d3c6bd6fc9ed5f2d42f0f7e97898b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/d32ce0c256128b9849c36a3cd2c7fa30ad95b55d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_bfe4723064e2a7275cd6b5681dfece6337511462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/cc5fb6717f2a1be3d330e8d8d7f42841b3fd53ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_1e3e7250f9b4a92d296ef56f10ea3f75f8f97e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/a5b487d002b939ed7fbe616c9a561bd116a7b102/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d566b62c657a817a9a6906e6e1ff2417e25b6229.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/a12a96b30de5e9e28c04886a86ae14553f38651a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_3ee696c420bb3e44cfa21d307c3670acf922c445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/e3f72510396a0e6454898bcc3dba4742d13440d1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_9de7afe8510a43b92265e2a6f9ce181a144ace05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/marabesi/.android/build-cache/8843867c8a3cbc270caf81e1cf24cf1d3583416d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Volumes/APPLICATION/Projects/android-vision/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/pre-dexed/debug/classes_645b06bfa06d1799afb13d1f78dfb8f65891ee0f.jar" />
+    </item>
+
+</items>
